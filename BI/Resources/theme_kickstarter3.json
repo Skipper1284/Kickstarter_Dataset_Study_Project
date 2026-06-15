@@ -1,0 +1,46 @@
+{
+  "name": "Consolas Theme - High Contrast Gradient",
+  "dataColors": [
+    "#2bde73",
+    "#1fb85e",
+    "#179248",
+    "#0f6c33",
+    "#08a5a5",
+    "#0088cc",
+    "#006699",
+    "#ff4252",
+    "#cc3542",
+    "#992831"
+  ],
+  "foreground": "#252423",
+  "background": "#FFFFFF",
+  "foregroundNeutralSecondary": "#605E5C",
+  "foregroundNeutralTertiary": "#A09E9B",
+  "backgroundLight": "#F2F2F2",
+  "backgroundNeutral": "#E6E6E6",
+  "tableAccent": "#2bde73",
+  "bad": "#ff4252",
+  "neutral": "#00afff",
+  "good": "#2bde73",
+  "maximum": "#2bde73",
+  "center": "#08a5a5",
+  "minimum": "#ff4252",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Consolas",
+      "fontSize": 12
+    },
+    "title": {
+      "fontFace": "Consolas",
+      "fontSize": 10
+    },
+    "header": {
+      "fontFace": "Consolas",
+      "fontSize": 9
+    },
+    "label": {
+      "fontFace": "Consolas",
+      "fontSize": 9
+    }
+  }
+}
