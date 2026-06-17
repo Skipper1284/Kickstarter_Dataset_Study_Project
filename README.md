@@ -1,2 +1,3 @@
-# Kickstarter Dataset Study Project
+# Учебный проект по аналитике данных
+## На примере датасета краудфандинговой платформы Kickstarter
 
